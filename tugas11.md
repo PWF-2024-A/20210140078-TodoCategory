@@ -6,11 +6,11 @@
 ![Alt text](screenshoot/tugas11/Screenshot%202024-05-25%20165216.png)
 # 3. Todo Index
 ![Alt text](screenshoot/tugas11/Screenshot%202024-05-26%20172714.png)
-# 2. Todo Show
+# 4. Todo Show
 ![Alt text](screenshoot/tugas11/Screenshot%202024-05-26%20174303.png)
-# 2. Todo Show Forbidden
+# 5. Todo Show Forbidden
 ![Alt text](screenshoot/tugas11/Screenshot%202024-05-26%20174542.png)
-# 2. Todo Search
+# 6. Todo Search
 ![Alt text](screenshoot/tugas11/Screenshot%202024-05-26%20174839.png)
-# 2. Logout
+# 7. Logout
 ![Alt text](screenshoot/tugas11/Screenshot%202024-05-25%20163700.png)
